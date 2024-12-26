@@ -1,0 +1,1048 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Chaithraaa",
+      "mobile": "1763463065",
+      "email": "chaithrajt47@gmail.com",
+      "matriculation_id": "1234",
+      "roles": "admin",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "name": "Nayana",
+      "mobile": "9591710899",
+      "email": "shivarajas475@gmail.com",
+      "matriculation_id": "0987",
+      "roles": "student",
+      "password": "0987"
+    },
+    {
+      "id": "3",
+      "name": "Manoj",
+      "mobile": "9538082080",
+      "email": "mjgowda2799@gmail.com",
+      "matriculation_id": "2799",
+      "roles": "student",
+      "password": "12345"
+    },
+    {
+      "id": "4",
+      "name": "Aishwarya",
+      "mobile": "345678",
+      "email": "aish@mail.com",
+      "matriculation_id": "123",
+      "roles": "student",
+      "password": "123"
+    },
+    {
+      "id": "5",
+      "name": "Chaithra",
+      "mobile": "32435",
+      "email": "chaithrajt47@gmail.com",
+      "matriculation_id": "23674",
+      "roles": "student",
+      "password": "1234"
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "name": "Computer Structures",
+      "date": "2024-10-23",
+      "category": "Computer Science",
+      "copies": "9",
+      "author": "Fred.B",
+      "image": "https://thumbs.dreamstime.com/b/line-web-concept-computer-science-vector-banner-education-open-path-76284593.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Data Extraction",
+      "date": "2024-12-10",
+      "category": "Data Science",
+      "copies": "15",
+      "author": "Frether Offord",
+      "image": "https://cdni.iconscout.com/illustration/premium/thumb/data-science-illustration-download-in-svg-png-gif-file-formats--analytics-logo-researcher-scientist-analyzing-business-activities-pack-people-illustrations-4221883.png"
+    },
+    {
+      "id": "3",
+      "name": "Network Security",
+      "date": "2024-12-17",
+      "category": "Cyber Security",
+      "copies": "10",
+      "author": "Ms. Ruthor",
+      "image": "https://png.pngtree.com/png-clipart/20191120/original/pngtree-network-information-computer-file-security-network-security-information-map-png-image_5060088.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Accounts",
+      "date": "2024-12-03",
+      "category": "MBA",
+      "copies": "23",
+      "author": "Damon Salvator",
+      "image": "https://cdn-icons-png.freepik.com/512/4593/4593634.png"
+    },
+    {
+      "id": "5",
+      "name": "Software Engineering ",
+      "date": "2022-02-08",
+      "category": "Computer Science",
+      "copies": "16",
+      "author": "Gunjan Kadu",
+      "image": "https://images.squarespace-cdn.com/content/v1/55240ca5e4b0ef65b027bcb8/1502306528758-URSORF3GUXJVZ6QGX0LO/DIACS-01.png?format=1500w"
+    },
+    {
+      "id": "6",
+      "name": "Data Visualization",
+      "date": "2020-06-18",
+      "category": "Data Science",
+      "copies": "25",
+      "author": "Swathi Chandana",
+      "image": "https://png.pngtree.com/png-vector/20190621/ourmid/pngtree-datasciencedata-sciencedollar-blue-dotted-line-line-icon-png-image_1489517.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Data Mining",
+      "date": "2018-02-18",
+      "category": "Data Science",
+      "copies": "18",
+      "author": "Anil Keshav",
+      "image": "https://lilacbuds.com/web/updated-asset/images/data-science.png"
+    },
+    {
+      "id": "8",
+      "name": "Data Analytics",
+      "date": "2015-08-03",
+      "category": "Data Science",
+      "copies": "13",
+      "author": "Paul Tanzer",
+      "image": "https://cdni.iconscout.com/illustration/premium/thumb/data-science-illustration-download-in-svg-png-gif-file-formats--analytics-logo-analysis-artificial-cloud-pack-business-illustrations-6077685.png"
+    },
+    {
+      "id": "9",
+      "name": "System Security",
+      "date": "2016-05-03",
+      "category": "Cyber Security",
+      "copies": "21",
+      "author": "Moeckel Gerd",
+      "image": "https://cdni.iconscout.com/illustration/premium/thumb/data-science-illustration-download-in-svg-png-gif-file-formats--analytics-logo-analysis-artificial-cloud-pack-business-illustrations-6077685.png"
+    },
+    {
+      "id": "10",
+      "name": "Web Security",
+      "date": "2016-05-21",
+      "category": "Cyber Security",
+      "copies": "66",
+      "author": "Ruffold Docker",
+      "image": "https://cdn-icons-png.flaticon.com/512/5541/5541422.png"
+    },
+    {
+      "id": "11",
+      "name": "Cloud Security",
+      "date": "2007-06-13",
+      "category": "Cyber Security",
+      "copies": "32",
+      "author": "Sitha Maha Lakshmi",
+      "image": "https://i.pinimg.com/736x/cf/a7/4e/cfa74e8f3d9a8f8a6bdd8d9d655d32aa.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Operating Systems",
+      "date": "2016-03-30",
+      "category": "Computer Science",
+      "copies": "19",
+      "author": "Peter Dillinger",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKvKyWmduNYOuDbRZmTWLZdrx5PprLkItkTIRKg-NKXRACR3zLNFH9sAnSlYui-ri1QRE&usqp=CAU"
+    },
+    {
+      "id": "13",
+      "name": "UI UX Design",
+      "date": "2011-11-05",
+      "category": "Computer Science",
+      "copies": "30",
+      "author": "Peter Dillinger",
+      "image": "https://img.freepik.com/premium-vector/artificial-intelligence-technology-set-icons_24877-1769.jpg"
+    },
+    {
+      "id": "14",
+      "name": "Cyber Threats",
+      "date": "2007-08-30",
+      "category": "Cyber Security",
+      "copies": 2,
+      "author": "Ms. Fleicher",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+    },
+    {
+      "id": "15",
+      "name": "UI Design and Implementation",
+      "date": "2024-11-19",
+      "category": "Computer Science",
+      "copies": "23",
+      "author": "Gunjan Kadu",
+      "image": "https://img.freepik.com/free-vector/tiny-cute-children-learning-coding_74855-14175.jpg?semt=ais_hybrid"
+    },
+    {
+      "id": "16",
+      "name": "Finance",
+      "date": "2024-05-01",
+      "category": "MBA",
+      "copies": "21",
+      "author": "Stefan Salvator",
+      "image": "https://cdn-icons-png.freepik.com/512/4593/4593628.png"
+    },
+    {
+      "id": "17",
+      "name": "Stocks",
+      "date": "1999-12-27",
+      "category": "MBA",
+      "copies": "16",
+      "author": "Elena Gilbert",
+      "image": "https://cdn-icons-png.flaticon.com/512/6000/6000793.png"
+    },
+    {
+      "id": "18",
+      "name": "Research and Analysis",
+      "date": "2020-06-16",
+      "category": "MBA",
+      "copies": "12",
+      "author": "Bonnie Bennet",
+      "image": "https://cdn-icons-png.flaticon.com/512/977/977448.png"
+    },
+    {
+      "id": "19",
+      "name": "Data Scalping",
+      "date": "2005-10-28",
+      "category": "Data Science",
+      "copies": "14",
+      "author": "Robert RR",
+      "image": "https://connectjaya.com/wp-content/uploads/2023/01/AdobeStock_425773830.png"
+    },
+    {
+      "id": "20",
+      "name": "Candle Chart",
+      "date": "2021-08-03",
+      "category": "MBA",
+      "copies": "27",
+      "author": "Caroline Forbes",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/019/872/921/small/3d-minimal-trading-charts-stock-market-forecasting-stock-market-analysis-marketing-strategy-stock-market-candle-with-a-laptop-with-statistic-graph-3d-illustration-free-png.png"
+    }
+  ],
+  "books_history": [
+    {
+      "id": "1",
+      "retrieve_date": "2024-12-25",
+      "user": {
+        "id": 2,
+        "name": "Nayana",
+        "mobile": "9591710899",
+        "email": "shivarajas475@gmail.com",
+        "matriculation_id": "0987",
+        "roles": "student",
+        "password": "0987"
+      },
+      "copies": 1,
+      "book": {
+        "id": "1",
+        "name": "Computer Science",
+        "date": "2024-10-23",
+        "category": "Computer Science",
+        "copies": "10",
+        "author": "Fred.B",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.expresspublishing.co.uk%2Fassets%2Fmicrosites%2Fadv%2F&psig=AOvVaw2g68xkEQhPPdBhKg0eUgsG&ust=1734611024893000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDc7-GnsYoDFQAAAAAdAAAAABAE"
+      },
+      "status": "Retrieved",
+      "request_for_extention": true,
+      "extension_status": "Approved",
+      "extenstion_remarks": "aproved",
+      "user_remarks": "I wanted to extend till 25th",
+      "extention_date": "2024-12-25"
+    },
+    {
+      "id": "2",
+      "retrieve_date": "2025-01-01",
+      "user": {
+        "id": "2",
+        "name": "Nayana",
+        "mobile": "9591710899",
+        "email": "shivarajas475@gmail.com",
+        "matriculation_id": "0987",
+        "roles": "student",
+        "password": "0987"
+      },
+      "copies": "2",
+      "book": {
+        "id": "11",
+        "name": "Cloud Security",
+        "date": "2007-06-13",
+        "category": "Cyber Security",
+        "copies": "34",
+        "author": "Sitha Maha Lakshmi",
+        "image": "https://i.pinimg.com/736x/cf/a7/4e/cfa74e8f3d9a8f8a6bdd8d9d655d32aa.jpg"
+      },
+      "status": "Retrieved",
+      "request_for_extention": true,
+      "extension_status": "Rejected",
+      "extenstion_remarks": "no",
+      "user_remarks": "pls",
+      "extention_date": "2025-01-01"
+    },
+    {
+      "id": "3",
+      "retrieve_date": "2024-12-20",
+      "user": {
+        "id": "3",
+        "name": "Manoj",
+        "mobile": "9538082080",
+        "email": "mjgowda2799@gmail.com",
+        "matriculation_id": "2799",
+        "roles": "student",
+        "password": "12345"
+      },
+      "copies": 1,
+      "book": {
+        "id": "14",
+        "name": "Cyber Threats",
+        "date": "2007-08-30",
+        "category": "Cyber Security",
+        "copies": "1",
+        "author": "Ms. Fleicher",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+      },
+      "status": "Retrieved",
+      "request_for_extention": true,
+      "extension_status": "Rejected",
+      "extenstion_remarks": "rejected",
+      "user_remarks": "approve the extension",
+      "extention_date": "2024-12-24"
+    },
+    {
+      "id": "4",
+      "retrieve_date": "2024-12-20",
+      "user": {
+        "id": "2",
+        "name": "Nayana",
+        "mobile": "9591710899",
+        "email": "shivarajas475@gmail.com",
+        "matriculation_id": "0987",
+        "roles": "student",
+        "password": "0987"
+      },
+      "copies": 1,
+      "book": {
+        "id": "1",
+        "name": "Computer Structures",
+        "date": "2024-10-23",
+        "category": "Computer Science",
+        "copies": "11",
+        "author": "Fred.B",
+        "image": "https://thumbs.dreamstime.com/b/line-web-concept-computer-science-vector-banner-education-open-path-76284593.jpg"
+      },
+      "status": "Assigned",
+      "request_for_extention": true,
+      "extension_status": "Rejected",
+      "extenstion_remarks": "rejected",
+      "user_remarks": "pls approve",
+      "extention_date": "2024-12-25"
+    },
+    {
+      "id": "5",
+      "retrieve_date": "2024-12-25",
+      "user": {
+        "id": "4",
+        "name": "Aishwarya",
+        "mobile": "345678",
+        "email": "aish@mail.com",
+        "matriculation_id": "123",
+        "roles": "student",
+        "password": "123"
+      },
+      "copies": 1,
+      "book": {
+        "id": "14",
+        "name": "Cyber Threats",
+        "date": "2007-08-30",
+        "category": "Cyber Security",
+        "copies": "1",
+        "author": "Ms. Fleicher",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+      },
+      "status": "Assigned",
+      "request_for_extention": true,
+      "extension_status": "Approved",
+      "extenstion_remarks": "aprroved",
+      "user_remarks": "pls approve",
+      "extention_date": "2024-12-25"
+    },
+    {
+      "id": "6",
+      "retrieve_date": "2024-12-30",
+      "user": {
+        "id": "4",
+        "name": "Aishwarya",
+        "mobile": "345678",
+        "email": "aish@mail.com",
+        "matriculation_id": "123",
+        "roles": "student",
+        "password": "123"
+      },
+      "copies": 1,
+      "book": {
+        "id": "14",
+        "name": "Cyber Threats",
+        "date": "2007-08-30",
+        "category": "Cyber Security",
+        "copies": "1",
+        "author": "Ms. Fleicher",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+      },
+      "status": "Assigned",
+      "request_for_extention": true,
+      "extension_status": "Approved",
+      "extenstion_remarks": "approved",
+      "user_remarks": "pls approve",
+      "extention_date": "2024-12-30"
+    },
+    {
+      "id": "7",
+      "retrieve_date": "2024-12-21",
+      "user": {
+        "id": "3",
+        "name": "Manoj",
+        "mobile": "9538082080",
+        "email": "mjgowda2799@gmail.com",
+        "matriculation_id": "2799",
+        "roles": "student",
+        "password": "12345"
+      },
+      "copies": 1,
+      "book": {
+        "id": "14",
+        "name": "Cyber Threats",
+        "date": "2007-08-30",
+        "category": "Cyber Security",
+        "copies": "2",
+        "author": "Ms. Fleicher",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+      },
+      "status": "Assigned",
+      "request_for_extention": false,
+      "extension_status": "Pending",
+      "extenstion_remarks": ""
+    },
+    {
+      "id": "8",
+      "retrieve_date": "2024-12-21",
+      "user": {
+        "id": "2",
+        "name": "Nayana",
+        "mobile": "9591710899",
+        "email": "shivarajas475@gmail.com",
+        "matriculation_id": "0987",
+        "roles": "student",
+        "password": "0987"
+      },
+      "copies": 1,
+      "book": {
+        "id": "14",
+        "name": "Cyber Threats",
+        "date": "2007-08-30",
+        "category": "Cyber Security",
+        "copies": 1,
+        "author": "Ms. Fleicher",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+      },
+      "status": "Retrieved",
+      "request_for_extention": true,
+      "extension_status": "Rejected",
+      "extenstion_remarks": "rejected",
+      "user_remarks": "pls extend",
+      "extention_date": "2024-12-25"
+    },
+    {
+      "id": "9",
+      "retrieve_date": "2024-12-20",
+      "user": {
+        "id": "2",
+        "name": "Nayana",
+        "mobile": "9591710899",
+        "email": "shivarajas475@gmail.com",
+        "matriculation_id": "0987",
+        "roles": "student",
+        "password": "0987"
+      },
+      "copies": 1,
+      "book": {
+        "id": "14",
+        "name": "Cyber Threats",
+        "date": "2007-08-30",
+        "category": "Cyber Security",
+        "copies": "2",
+        "author": "Ms. Fleicher",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+      },
+      "status": "Assigned",
+      "request_for_extention": true,
+      "extension_status": "Rejected",
+      "extenstion_remarks": "less number copies",
+      "user_remarks": "pls extend",
+      "extention_date": "2024-12-23"
+    },
+    {
+      "id": "10",
+      "retrieve_date": "2024-12-30",
+      "user": {
+        "id": "2",
+        "name": "Nayana",
+        "mobile": "9591710899",
+        "email": "shivarajas475@gmail.com",
+        "matriculation_id": "0987",
+        "roles": "student",
+        "password": "0987"
+      },
+      "copies": 1,
+      "book": {
+        "id": "14",
+        "name": "Cyber Threats",
+        "date": "2007-08-30",
+        "category": "Cyber Security",
+        "copies": "2",
+        "author": "Ms. Fleicher",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+      },
+      "status": "Assigned",
+      "request_for_extention": true,
+      "extension_status": "Approved",
+      "extenstion_remarks": "aprove",
+      "user_remarks": "pls approve",
+      "extention_date": "2024-12-30"
+    },
+    {
+      "id": "11",
+      "retrieve_date": "2024-12-26",
+      "user": {
+        "id": "2",
+        "name": "Nayana",
+        "mobile": "9591710899",
+        "email": "shivarajas475@gmail.com",
+        "matriculation_id": "0987",
+        "roles": "student",
+        "password": "0987"
+      },
+      "copies": 1,
+      "book": {
+        "id": "14",
+        "name": "Cyber Threats",
+        "date": "2007-08-30",
+        "category": "Cyber Security",
+        "copies": 1,
+        "author": "Ms. Fleicher",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+      },
+      "status": "Assigned",
+      "request_for_extention": true,
+      "extension_status": "Rejected",
+      "extenstion_remarks": "since no copies available, rejected",
+      "user_remarks": "pls approve",
+      "extention_date": "2025-01-01"
+    },
+    {
+      "id": "12",
+      "retrieve_date": "2024-12-25",
+      "user": {
+        "id": "2",
+        "name": "Nayana",
+        "mobile": "9591710899",
+        "email": "shivarajas475@gmail.com",
+        "matriculation_id": "0987",
+        "roles": "student",
+        "password": "0987"
+      },
+      "copies": 1,
+      "book": {
+        "id": "14",
+        "name": "Cyber Threats",
+        "date": "2007-08-30",
+        "category": "Cyber Security",
+        "copies": "3",
+        "author": "Ms. Fleicher",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+      },
+      "status": "Assigned",
+      "request_for_extention": true,
+      "extension_status": "Approved",
+      "extenstion_remarks": "aprove",
+      "user_remarks": "pls aprove",
+      "extention_date": "2024-12-25"
+    },
+    {
+      "id": "13",
+      "retrieve_date": "2024-12-23",
+      "user": {
+        "id": "2",
+        "name": "Nayana",
+        "mobile": "9591710899",
+        "email": "shivarajas475@gmail.com",
+        "matriculation_id": "0987",
+        "roles": "student",
+        "password": "0987"
+      },
+      "copies": 1,
+      "book": {
+        "id": "14",
+        "name": "Cyber Threats",
+        "date": "2007-08-30",
+        "category": "Cyber Security",
+        "copies": 2,
+        "author": "Ms. Fleicher",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+      },
+      "status": "Assigned",
+      "request_for_extention": false,
+      "extension_status": "Pending",
+      "extenstion_remarks": ""
+    }
+  ],
+  "notification": [
+    {
+      "id": "4683",
+      "user": {
+        "id": 2,
+        "name": "Nayana",
+        "mobile": "9591710899",
+        "email": "shivarajas475@gmail.com",
+        "matriculation_id": "0987",
+        "roles": "student",
+        "password": "0987"
+      },
+      "bookHistory": {
+        "id": "1",
+        "retrieve_date": "2024-12-20",
+        "user": {
+          "id": 2,
+          "name": "Nayana",
+          "mobile": "9591710899",
+          "email": "shivarajas475@gmail.com",
+          "matriculation_id": "0987",
+          "roles": "student",
+          "password": "0987"
+        },
+        "copies": 1,
+        "book": {
+          "id": "1",
+          "name": "Computer Science",
+          "date": "2024-10-23",
+          "category": "Computer Science",
+          "copies": "10",
+          "author": "Fred.B",
+          "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.expresspublishing.co.uk%2Fassets%2Fmicrosites%2Fadv%2F&psig=AOvVaw2g68xkEQhPPdBhKg0eUgsG&ust=1734611024893000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDc7-GnsYoDFQAAAAAdAAAAABAE"
+        },
+        "status": "Assigned",
+        "request_for_extention": true,
+        "extension_status": "Pending",
+        "extenstion_remarks": "",
+        "user_remarks": "I wanted to extend till 25th",
+        "extention_date": "2024-12-25"
+      },
+      "extension_status": "Approved",
+      "extenstion_remarks": "aproved",
+      "type": "User"
+    },
+    {
+      "id": "7660",
+      "user": {
+        "id": "3",
+        "name": "Manoj",
+        "mobile": "9538082080",
+        "email": "mjgowda2799@gmail.com",
+        "matriculation_id": "2799",
+        "roles": "student",
+        "password": "12345"
+      },
+      "bookHistory": {
+        "id": "3",
+        "retrieve_date": "2024-12-20",
+        "user": {
+          "id": "3",
+          "name": "Manoj",
+          "mobile": "9538082080",
+          "email": "mjgowda2799@gmail.com",
+          "matriculation_id": "2799",
+          "roles": "student",
+          "password": "12345"
+        },
+        "copies": 1,
+        "book": {
+          "id": "14",
+          "name": "Cyber Threats",
+          "date": "2007-08-30",
+          "category": "Cyber Security",
+          "copies": "1",
+          "author": "Ms. Fleicher",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+        },
+        "status": "Assigned",
+        "request_for_extention": true,
+        "extension_status": "Pending",
+        "extenstion_remarks": "",
+        "user_remarks": "approve the extension",
+        "extention_date": "2024-12-24"
+      },
+      "extension_status": "Rejected",
+      "extenstion_remarks": "rejected",
+      "type": "User"
+    },
+    {
+      "id": "f212",
+      "user": {
+        "id": "2",
+        "name": "Nayana",
+        "mobile": "9591710899",
+        "email": "shivarajas475@gmail.com",
+        "matriculation_id": "0987",
+        "roles": "student",
+        "password": "0987"
+      },
+      "bookHistory": {
+        "id": "4",
+        "retrieve_date": "2024-12-20",
+        "user": {
+          "id": "2",
+          "name": "Nayana",
+          "mobile": "9591710899",
+          "email": "shivarajas475@gmail.com",
+          "matriculation_id": "0987",
+          "roles": "student",
+          "password": "0987"
+        },
+        "copies": 1,
+        "book": {
+          "id": "1",
+          "name": "Computer Structures",
+          "date": "2024-10-23",
+          "category": "Computer Science",
+          "copies": "11",
+          "author": "Fred.B",
+          "image": "https://thumbs.dreamstime.com/b/line-web-concept-computer-science-vector-banner-education-open-path-76284593.jpg"
+        },
+        "status": "Assigned",
+        "request_for_extention": true,
+        "extension_status": "Pending",
+        "extenstion_remarks": "",
+        "user_remarks": "pls approve",
+        "extention_date": "2024-12-25"
+      },
+      "extension_status": "Rejected",
+      "extenstion_remarks": "rejected",
+      "type": "User"
+    },
+    {
+      "id": "731d",
+      "user": {
+        "id": "4",
+        "name": "Aishwarya",
+        "mobile": "345678",
+        "email": "aish@mail.com",
+        "matriculation_id": "123",
+        "roles": "student",
+        "password": "123"
+      },
+      "bookHistory": {
+        "id": "5",
+        "retrieve_date": "2024-12-21",
+        "user": {
+          "id": "4",
+          "name": "Aishwarya",
+          "mobile": "345678",
+          "email": "aish@mail.com",
+          "matriculation_id": "123",
+          "roles": "student",
+          "password": "123"
+        },
+        "copies": 1,
+        "book": {
+          "id": "14",
+          "name": "Cyber Threats",
+          "date": "2007-08-30",
+          "category": "Cyber Security",
+          "copies": "1",
+          "author": "Ms. Fleicher",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+        },
+        "status": "Assigned",
+        "request_for_extention": true,
+        "extension_status": "Pending",
+        "extenstion_remarks": "",
+        "user_remarks": "pls approve",
+        "extention_date": "2024-12-25"
+      },
+      "extension_status": "Approved",
+      "extenstion_remarks": "aprroved",
+      "type": "User"
+    },
+    {
+      "id": "301b",
+      "user": {
+        "id": "4",
+        "name": "Aishwarya",
+        "mobile": "345678",
+        "email": "aish@mail.com",
+        "matriculation_id": "123",
+        "roles": "student",
+        "password": "123"
+      },
+      "bookHistory": {
+        "id": "6",
+        "retrieve_date": "2024-12-21",
+        "user": {
+          "id": "4",
+          "name": "Aishwarya",
+          "mobile": "345678",
+          "email": "aish@mail.com",
+          "matriculation_id": "123",
+          "roles": "student",
+          "password": "123"
+        },
+        "copies": 1,
+        "book": {
+          "id": "14",
+          "name": "Cyber Threats",
+          "date": "2007-08-30",
+          "category": "Cyber Security",
+          "copies": "1",
+          "author": "Ms. Fleicher",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+        },
+        "status": "Assigned",
+        "request_for_extention": true,
+        "extension_status": "Pending",
+        "extenstion_remarks": "",
+        "user_remarks": "pls approve",
+        "extention_date": "2024-12-30"
+      },
+      "extension_status": "Approved",
+      "extenstion_remarks": "approved",
+      "type": "User"
+    },
+    {
+      "id": "15c0",
+      "user": {
+        "id": "2",
+        "name": "Nayana",
+        "mobile": "9591710899",
+        "email": "shivarajas475@gmail.com",
+        "matriculation_id": "0987",
+        "roles": "student",
+        "password": "0987"
+      },
+      "bookHistory": {
+        "id": "8",
+        "retrieve_date": "2024-12-21",
+        "user": {
+          "id": "2",
+          "name": "Nayana",
+          "mobile": "9591710899",
+          "email": "shivarajas475@gmail.com",
+          "matriculation_id": "0987",
+          "roles": "student",
+          "password": "0987"
+        },
+        "copies": 1,
+        "book": {
+          "id": "14",
+          "name": "Cyber Threats",
+          "date": "2007-08-30",
+          "category": "Cyber Security",
+          "copies": 1,
+          "author": "Ms. Fleicher",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+        },
+        "status": "Assigned",
+        "request_for_extention": true,
+        "extension_status": "Pending",
+        "extenstion_remarks": "",
+        "user_remarks": "pls extend",
+        "extention_date": "2024-12-25"
+      },
+      "extension_status": "Rejected",
+      "extenstion_remarks": "rejected",
+      "type": "User"
+    },
+    {
+      "id": "0ef9",
+      "user": {
+        "id": "2",
+        "name": "Nayana",
+        "mobile": "9591710899",
+        "email": "shivarajas475@gmail.com",
+        "matriculation_id": "0987",
+        "roles": "student",
+        "password": "0987"
+      },
+      "bookHistory": {
+        "id": "10",
+        "retrieve_date": "2024-12-24",
+        "user": {
+          "id": "2",
+          "name": "Nayana",
+          "mobile": "9591710899",
+          "email": "shivarajas475@gmail.com",
+          "matriculation_id": "0987",
+          "roles": "student",
+          "password": "0987"
+        },
+        "copies": 1,
+        "book": {
+          "id": "14",
+          "name": "Cyber Threats",
+          "date": "2007-08-30",
+          "category": "Cyber Security",
+          "copies": "2",
+          "author": "Ms. Fleicher",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+        },
+        "status": "Assigned",
+        "request_for_extention": true,
+        "extension_status": "Pending",
+        "extenstion_remarks": "",
+        "user_remarks": "pls approve",
+        "extention_date": "2024-12-30"
+      },
+      "extension_status": "Approved",
+      "extenstion_remarks": "aprove",
+      "type": "User"
+    },
+    {
+      "id": "f864",
+      "user": {
+        "id": "2",
+        "name": "Nayana",
+        "mobile": "9591710899",
+        "email": "shivarajas475@gmail.com",
+        "matriculation_id": "0987",
+        "roles": "student",
+        "password": "0987"
+      },
+      "bookHistory": {
+        "id": "11",
+        "retrieve_date": "2024-12-26",
+        "user": {
+          "id": "2",
+          "name": "Nayana",
+          "mobile": "9591710899",
+          "email": "shivarajas475@gmail.com",
+          "matriculation_id": "0987",
+          "roles": "student",
+          "password": "0987"
+        },
+        "copies": 1,
+        "book": {
+          "id": "14",
+          "name": "Cyber Threats",
+          "date": "2007-08-30",
+          "category": "Cyber Security",
+          "copies": 1,
+          "author": "Ms. Fleicher",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+        },
+        "status": "Assigned",
+        "request_for_extention": true,
+        "extension_status": "Pending",
+        "extenstion_remarks": "",
+        "user_remarks": "pls approve",
+        "extention_date": "2025-01-01"
+      },
+      "extension_status": "Rejected",
+      "extenstion_remarks": "since no copies available, rejected",
+      "type": "User"
+    },
+    {
+      "id": "4e6f",
+      "user": {
+        "id": "2",
+        "name": "Nayana",
+        "mobile": "9591710899",
+        "email": "shivarajas475@gmail.com",
+        "matriculation_id": "0987",
+        "roles": "student",
+        "password": "0987"
+      },
+      "bookHistory": {
+        "id": "12",
+        "retrieve_date": "2024-12-22",
+        "user": {
+          "id": "2",
+          "name": "Nayana",
+          "mobile": "9591710899",
+          "email": "shivarajas475@gmail.com",
+          "matriculation_id": "0987",
+          "roles": "student",
+          "password": "0987"
+        },
+        "copies": 1,
+        "book": {
+          "id": "14",
+          "name": "Cyber Threats",
+          "date": "2007-08-30",
+          "category": "Cyber Security",
+          "copies": "3",
+          "author": "Ms. Fleicher",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+        },
+        "status": "Assigned",
+        "request_for_extention": true,
+        "extension_status": "Pending",
+        "extenstion_remarks": "",
+        "user_remarks": "pls aprove",
+        "extention_date": "2024-12-25"
+      },
+      "extension_status": "Approved",
+      "extenstion_remarks": "aprove",
+      "type": "User"
+    },
+    {
+      "id": "094e",
+      "user": {
+        "id": "2",
+        "name": "Nayana",
+        "mobile": "9591710899",
+        "email": "shivarajas475@gmail.com",
+        "matriculation_id": "0987",
+        "roles": "student",
+        "password": "0987"
+      },
+      "bookHistory": {
+        "id": "9",
+        "retrieve_date": "2024-12-20",
+        "user": {
+          "id": "2",
+          "name": "Nayana",
+          "mobile": "9591710899",
+          "email": "shivarajas475@gmail.com",
+          "matriculation_id": "0987",
+          "roles": "student",
+          "password": "0987"
+        },
+        "copies": 1,
+        "book": {
+          "id": "14",
+          "name": "Cyber Threats",
+          "date": "2007-08-30",
+          "category": "Cyber Security",
+          "copies": "2",
+          "author": "Ms. Fleicher",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAs2yIerVeEvtuZi2JaEMDSuDNUN-oqp8AAO8fMBByKkPxETJndRf72WYystijJVTdtYs&usqp=CAU"
+        },
+        "status": "Assigned",
+        "request_for_extention": true,
+        "extension_status": "Pending",
+        "extenstion_remarks": "",
+        "user_remarks": "pls extend",
+        "extention_date": "2024-12-23"
+      },
+      "extension_status": "Rejected",
+      "extenstion_remarks": "less number copies",
+      "type": "User"
+    }
+  ]
+}
